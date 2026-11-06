@@ -11,7 +11,7 @@
     ],
   },
   "files": [
-    { "kind": "folder", "path": "MyApp", "target-membership": [ "MyApp" ] },
+    { "kind": "folder", "path": "i2View", "target-membership": [ "i2View" ] },
     {
       "kind": "group",
       "name": "Products",
@@ -22,7 +22,7 @@
   ],
   "targets": [
     {
-      "name": "MyApp",
+      "name": "i2View",
       "id": "000000000000000100000000",
       "product": "Products/i2View.app",
       "product-type": "application",
